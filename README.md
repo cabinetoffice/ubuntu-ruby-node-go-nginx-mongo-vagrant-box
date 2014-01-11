@@ -16,6 +16,6 @@ You can download the box from
 
 So the Vagrantfile config would look like
 
-config.vm.box_url = "http://bit.ly/precise64rngn"
+    config.vm.box_url = "http://bit.ly/precise64rngn"
 
 Default (vagrant:vagrant) logins apply.
