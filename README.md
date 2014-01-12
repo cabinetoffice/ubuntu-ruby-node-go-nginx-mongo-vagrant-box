@@ -11,6 +11,10 @@ Vagrant packaged box with:
 * MongoDb v .2.4.8 and
 * Nginx with Passenger (passenger-4.0.33.gem)
 
+Ruby frameworks installed:
+* Rails 4.0.2
+* Sinatra 1.4.4
+
 You can download the box from (hosted with Dropbox and Copy)
 
 * http://bit.ly/precise64rngn, or
